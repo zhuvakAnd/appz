@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fjO3C0IZJQmYJmB7FwlMSArRo8Q+o/1FA7+dwVOQvs4Hzq3/n/0n5JzpBcHDjyj8z6SBY649BC22FAFodx8lTw==",
+  "dgSpecHash": "jubvyzX2YzihA7+fbGdq1/e4Hcm//og2WXUQguTiU9tMbqYb4w/AZcXZmZ8X6rQg3K5MKz9d6hf4h3peRA4/9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\3 курс\\Архітектура\\Лаби\\Lab1 Singleton\\Lab1.1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Andriy\\Documents\\GitHub\\appz_\\cs\\Patterns\\Lab1 Singleton\\Lab1.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andriy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Andriy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Andriy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Andriy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
   "logs": []
 }
